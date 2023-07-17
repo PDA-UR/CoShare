@@ -1,7 +1,7 @@
-# Extended Screenshare
+# CoShare
 <img width="50%" alt="icon" src="img/icon.png" class="center">
 
-Extended Screenshare is a Screensharing-Tool to improve collaborative work.
+CoShare is a Screensharing-Tool to improve collaborative work.
 This tool allows you to choose the shared region freely by your self
 instead of sharing the entire screen or a single application.
 As the receiving part, you can interact with the stream and even drag-and-drop file through it.
